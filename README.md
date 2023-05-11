@@ -18,6 +18,8 @@ google.yml </br>
 GKE Cluster </br>
 [![Screen-Shot-2023-05-10-at-6-08-10-PM.png](https://i.postimg.cc/501m5ggt/Screen-Shot-2023-05-10-at-6-08-10-PM.png)](https://postimg.cc/LqCf2zrd)
 
+Enable the Kubernetes Engine and Container Registry APIs
+[![Screen-Shot-2023-05-10-at-6-11-59-PM.png](https://i.postimg.cc/Qdh5yC56/Screen-Shot-2023-05-10-at-6-11-59-PM.png)](https://postimg.cc/1f7fg9v6)
 
 
 
