@@ -57,6 +57,11 @@ Workloads (deployment successful) </br>
 Services & Ingress (service successful) </br>
 [![Screen-Shot-2023-05-10-at-10-04-12-PM.png](https://i.postimg.cc/v8thFy1T/Screen-Shot-2023-05-10-at-10-04-12-PM.png)](https://postimg.cc/BttHHdBf)
 
+Creating a Kubernetes Ingress </br>
+[![Screen-Shot-2023-05-10-at-10-12-51-PM.png](https://i.postimg.cc/hjCzS2VJ/Screen-Shot-2023-05-10-at-10-12-51-PM.png)](https://postimg.cc/FdLspgWm)
 
+Services & Ingress (successful load balancer) </br>
+[![Screen-Shot-2023-05-10-at-10-20-25-PM.png](https://i.postimg.cc/bNnxTjQ3/Screen-Shot-2023-05-10-at-10-20-25-PM.png)](https://postimg.cc/kBnRJzYb)
 
-
+Gumball Spring App Web UI successfully come up on Load Balancer's External IP </br>
+[![Screen-Shot-2023-05-10-at-10-21-26-PM.png](https://i.postimg.cc/JzcF4Fz4/Screen-Shot-2023-05-10-at-10-21-26-PM.png)](https://postimg.cc/Yv0RdbFJ)
