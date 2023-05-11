@@ -16,7 +16,7 @@ google.yml </br>
 [![Screen-Shot-2023-05-10-at-4-29-32-PM.png](https://i.postimg.cc/Y9J1SxPR/Screen-Shot-2023-05-10-at-4-29-32-PM.png)](https://postimg.cc/gXHwS3mL)
 
 GKE Cluster </br>
-[![Screen-Shot-2023-05-10-at-5-22-24-PM.png](https://i.postimg.cc/dtR8qrjR/Screen-Shot-2023-05-10-at-5-22-24-PM.png)](https://postimg.cc/xcCk5k7q)
+[![Screen-Shot-2023-05-10-at-6-08-10-PM.png](https://i.postimg.cc/501m5ggt/Screen-Shot-2023-05-10-at-6-08-10-PM.png)](https://postimg.cc/LqCf2zrd)
 
 
 
