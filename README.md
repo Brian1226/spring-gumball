@@ -39,6 +39,23 @@ The content of the service account JSON file </br>
 Configure Github Secrets </br>
 [![Screen-Shot-2023-05-10-at-9-26-41-PM.png](https://i.postimg.cc/pXbGxyTf/Screen-Shot-2023-05-10-at-9-26-41-PM.png)](https://postimg.cc/K4frDGtj)
 
+Trigger a CD Deployment by creating a new GitHub Release </br>
+[![Screen-Shot-2023-05-10-at-9-43-12-PM.png](https://i.postimg.cc/LsGffCnr/Screen-Shot-2023-05-10-at-9-43-12-PM.png)](https://postimg.cc/Tyqpvcj9)
+
+Bulding and Deploying to GKE </br>
+[![Screen-Shot-2023-05-10-at-9-44-18-PM.png](https://i.postimg.cc/3x4xpKmx/Screen-Shot-2023-05-10-at-9-44-18-PM.png)](https://postimg.cc/18SS11vk)
+
+Successful workflow of the Release </br>
+[![Screen-Shot-2023-05-10-at-9-53-53-PM.png](https://i.postimg.cc/V6NTrN07/Screen-Shot-2023-05-10-at-9-53-53-PM.png)](https://postimg.cc/wtSFngVJ)
+
+All workflow are successful </br>
+[![Screen-Shot-2023-05-10-at-9-54-22-PM.png](https://i.postimg.cc/284DfVQv/Screen-Shot-2023-05-10-at-9-54-22-PM.png)](https://postimg.cc/F7sqyFns)
+
+Workloads (deployment successful) </br>
+[![Screen-Shot-2023-05-10-at-9-55-24-PM.png](https://i.postimg.cc/rs1Y7RBw/Screen-Shot-2023-05-10-at-9-55-24-PM.png)](https://postimg.cc/GTpQyt3W)
+
+Services & Ingress (service successful) </br>
+[![Screen-Shot-2023-05-10-at-10-04-12-PM.png](https://i.postimg.cc/v8thFy1T/Screen-Shot-2023-05-10-at-10-04-12-PM.png)](https://postimg.cc/BttHHdBf)
 
 
 
